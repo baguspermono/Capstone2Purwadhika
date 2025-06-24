@@ -6,6 +6,7 @@ Penelitian ini bertujuan untuk mendalami berbagai faktor yang dapat menyebabkan 
 Ketidakpatuhan dalam melakukan tap out pada layanan TransJakarta tidak hanya mengakibatkan kerugian pada pendapatan operasional karena tarif perjalanan yang tidak tercatat secara akurat, tetapi juga menimbulkan ketidaknyamanan bagi penumpang akibat pemblokiran kartu. Kurangnya pemahaman yang menyeluruh mengenai faktor-faktor yang memengaruhi kepatuhan tap out menjadi hambatan dalam penerapan solusi yang efektif. Selain itu, keterbatasan data yang terintegrasi—yang meliputi aspek demografis, perilaku, dan teknis dari penumpang serta sistem tap out—membatasi kemampuan untuk merancang intervensi yang tepat dan efisien.
 
 **Data**
+
 Dataset dapat diakses [di sini](https://www.kaggle.com/datasets/dikisahkan/transjakarta-transportation-transaction).
 * `transID`: Nomor unik untuk setiap transaksi.
 * `payCardID`: Identifikasi utama dari pelanggan. Kartu yang digunakan pelanggan sebagai tiket untuk masuk dan keluar.
@@ -31,6 +32,8 @@ Dataset dapat diakses [di sini](https://www.kaggle.com/datasets/dikisahkan/trans
 * `payAmount`: Jumlah pembayaran yang dilakukan pelanggan; bisa gratis atau berbayar tergantung transaksi.
   
 **Kesimpulan**
+
+
 * Ketidakpatuhan tap out 3,55% berdampak pada efisiensi, pendapatan, dan kepuasan pengguna.
 * Halte terpadat: BKN, Penjaringan, Senen, Monas, Kampung Rambutan. Terminal Senen mencatat ketidakpatuhan tertinggi (28,57%).
 * Faktor penyebab utama:
