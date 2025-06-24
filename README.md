@@ -46,4 +46,4 @@ Dataset dapat diakses [di sini](https://www.kaggle.com/datasets/dikisahkan/trans
 Ketidakpatuhan tap out dipengaruhi kombinasi faktor edukasi, teknis, demografis, dan pola penggunaan.
 Intervensi efektif harus menyasar seluruh faktor ini: edukasi, perbaikan fasilitas, diversifikasi pembayaran, dan strategi operasional sesuai karakteristik halte untuk menjaga dan meningkatkan efisiensi, pendapatan, serta kepuasan pengguna.
 
-[Dashboard]https://public.tableau.com/app/profile/bagus.permono/viz/Transjakarta_17507725712080/Dashboard3?publish=yes
+[Dashboard](https://public.tableau.com/app/profile/bagus.permono/viz/Transjakarta_17507725712080/Dashboard3?publish=yes)
