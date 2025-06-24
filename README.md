@@ -1,6 +1,7 @@
 # Capstone2Purwadhika
-https://public.tableau.com/app/profile/bagus.permono/viz/Transjakarta_17507725712080/Dashboard3?publish=yes
+
 **Latar Belakang**
+
 Penelitian ini bertujuan untuk mendalami berbagai faktor yang dapat menyebabkan ketidakpatuhan tap out, khususnya di halte-halte dengan jumlah penumpang yang tinggi. Dengan menganalisis dan membandingkan karakteristik halte yang menunjukkan tingkat kepatuhan tap out yang berbeda-beda, penelitian ini berupaya mengidentifikasi pola, perilaku penumpang, serta kondisi operasional yang mungkin memengaruhi terjadinya ketidakpatuhan tersebut. Diharapkan, hasil penelitian ini dapat memberikan perspektif baru mengenai strategi intervensi yang dapat diterapkan oleh TransJakarta guna mencegah dan meminimalisir kasus ketidakpatuhan tap out, meningkatkan efisiensi operasional, serta memperbaiki pengalaman pengguna secara menyeluruh
 **Pernyataan Masalah**
 Ketidakpatuhan dalam melakukan tap out pada layanan TransJakarta tidak hanya mengakibatkan kerugian pada pendapatan operasional karena tarif perjalanan yang tidak tercatat secara akurat, tetapi juga menimbulkan ketidaknyamanan bagi penumpang akibat pemblokiran kartu. Kurangnya pemahaman yang menyeluruh mengenai faktor-faktor yang memengaruhi kepatuhan tap out menjadi hambatan dalam penerapan solusi yang efektif. Selain itu, keterbatasan data yang terintegrasi—yang meliputi aspek demografis, perilaku, dan teknis dari penumpang serta sistem tap out—membatasi kemampuan untuk merancang intervensi yang tepat dan efisien.
@@ -30,9 +31,9 @@ Dataset dapat diakses [di sini](https://www.kaggle.com/datasets/dikisahkan/trans
 * `stopEndSeq`: Urutan halte akhir pada rute saat pelanggan tap out.
 * `tapOutTime`: Tanggal dan waktu pelanggan melakukan tap out.
 * `payAmount`: Jumlah pembayaran yang dilakukan pelanggan; bisa gratis atau berbayar tergantung transaksi.
+
   
 **Kesimpulan**
-
 
 * Ketidakpatuhan tap out 3,55% berdampak pada efisiensi, pendapatan, dan kepuasan pengguna.
 * Halte terpadat: BKN, Penjaringan, Senen, Monas, Kampung Rambutan. Terminal Senen mencatat ketidakpatuhan tertinggi (28,57%).
